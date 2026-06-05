@@ -94,18 +94,12 @@ I'm a Frontend Developer and Computer Engineering student who loves creating eng
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/B1Kjuu">
-  <img src="https://github-readme-stats.vercel.app/api?username=B1Kjuu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/B1Kjuu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1Kjuu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=B1Kjuu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/B1Kjuu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B1Kjuu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/B1Kjuu)
 
 <br/>
 
-<a href="https://github.com/B1Kjuu">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=B1Kjuu&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=B1Kjuu&theme=radical&hide_border=true&background=0D1117)](https://github.com/B1Kjuu)
 
 <br />
 <br />
