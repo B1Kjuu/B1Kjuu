@@ -86,7 +86,6 @@ I'm a Frontend Developer and Computer Engineering student who loves creating eng
 * 🏎️ **P3KCARS:** A highly responsive, public-facing web application developed with clean navigation for an automotive business.
 * 🏢 **PTSI & IIA:** Company and organizational platforms built for content delivery, membership info, and deployed via Firebase Hosting.
 * 📓 **EASYJOURNAL:** A simple, lightweight journaling application. 
-* 📟 **8-Bit Program Counter:** A from-scratch hardware engineering project built entirely on a breadboard.
 
 ---
 
